@@ -1,0 +1,73 @@
+let airlines = [
+  {
+    id: "10",
+    name: "El-Al",
+    state: "Israel",
+    num_of_planes: 6,
+    num_of_available_flights: 15,
+  },
+  {
+    id: "2",
+    name: "Emirthis",
+    state: "Katar",
+    num_of_planes: 7,
+    num_of_available_flights: 20,
+  },
+  {
+    id: "4",
+    name: "Arkia",
+    state: "Israel",
+    num_of_planes: 8,
+    num_of_available_flights: 25,
+  },
+  {
+    id: "7",
+    name: "Ski-up",
+    state: "England",
+    num_of_planes: 7,
+    num_of_available_flights: 23,
+  },
+  {
+    id: "9",
+    name: "Ibria",
+    state: "India",
+    num_of_planes: 9,
+    num_of_available_flights: 22,
+  },
+  {
+    id: "11",
+    name: "British-Airline",
+    state: "England",
+    num_of_planes: 6,
+    num_of_available_flights: 15,
+  },
+  {
+    id: "77",
+    name: "Katai-Pasific",
+    state: "italy",
+    num_of_planes: 8,
+    num_of_available_flights: 20,
+  },
+  {
+    id: "30",
+    name: "Delta",
+    state: "Germany",
+    num_of_planes: 6,
+    num_of_available_flights: 15,
+  },
+  {
+    id: "20",
+    name: "Wiz-Air",
+    state: "Netherlands",
+    num_of_planes: 6,
+    num_of_available_flights: 15,
+  },
+  {
+    id: "70",
+    name: "Yokrin",
+    state: "Russia",
+    num_of_planes: 6,
+    num_of_available_flights: 15,
+  },
+];
+module.exports={airlines}
